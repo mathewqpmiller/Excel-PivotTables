@@ -26,5 +26,5 @@ A deep dive into Excel Pivot Tables specializing on Data Analytics
 ### Gross Revenue by Genre and Rating, filtered only on Black and White films in the USA
 
 <p align="center">
-    <img src="https://github.com/mathewqpmiller/Python-MetricsAnalysis/blob/main/PyBank/Images/PyBankForLoop.PNG?raw=true" height ="350">
+    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/GROnGenreRatingByCountryB&W.png?raw=true" height ="350">
 </p>
