@@ -8,7 +8,7 @@ A deep dive into Excel Pivot Tables specializing on Data Analytics
 ### Budget by Title
 
 <p align="center">
-    <img src="https://github.com/mathewqpmiller/Python-MetricsAnalysis/blob/main/PyBank/Images/PyBankForLoop.PNG?raw=true" height ="350">
+    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/TitleBudgetPivotTable.png?raw=true" height ="350">
 </p>
 
 ### Budget and Gross Revenue by Country, Genre, and Title 
