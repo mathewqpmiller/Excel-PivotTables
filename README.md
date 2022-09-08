@@ -4,10 +4,12 @@ A deep dive into Excel Pivot Tables specializing on Data Analytics
 
 ## Practice Creating Pivot Table Views
 
+
+### Budget by Title
+
 <p align="center">
     <img src="https://github.com/mathewqpmiller/Python-MetricsAnalysis/blob/main/PyBank/Images/PyBankForLoop.PNG?raw=true" height ="350">
 </p>
-### Budget by Title
 
 ### Budget and Gross Revenue by Country, Genre, and Title 
 
