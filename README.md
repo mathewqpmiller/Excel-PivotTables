@@ -8,8 +8,10 @@ A deep dive into Excel Pivot Tables specializing on Data Analytics
 
 |First Image|Second Image|
 |:-:|:-:|
-|![First Image](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/TitleBudgetPivotTable.png?h=350&w=630)|![Second Image](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/BudgetGROnCountryGenreTitle.png?h=350&w=630)|
-
+|![Budget by Title](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/TitleBudgetPivotTable.png?h=350&w=630)|![Budget/GR by Country, Genre and Title](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/BudgetGROnCountryGenreTitle.png?h=350&w=630)|
+|First Image|Second Image|
+|:-:|:-:|
+|![Horror Films GR by Country](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/GROnCountryByGenre.png?h=350&w=630)|![USA B&W Films GR by Genre and Rating](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/GROnGenreRatingByCountryB&W.png?h=350&w=630)|
 
 
 ### Budget by Title
