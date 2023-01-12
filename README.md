@@ -10,7 +10,6 @@ A deep dive into Excel Pivot Tables specializing on Data Analytics
 |:-:|:-:|
 |![Budget by Title](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/TitleBudgetPivotTable.png?h=350&w=630)|![Budget/GR by Country, Genre and Title](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/BudgetGROnCountryGenreTitle.png?h=350&w=630)|
 |Horror Films GR by Country|USA B&W Films GR by Genre and Rating|
-|:-:|:-:|
 |![Horror Films GR by Country](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/GROnCountryByGenre.png?h=350&w=630)|![USA B&W Films GR by Genre and Rating](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/GROnGenreRatingByCountryB&W.png?h=350&w=630)|
 
 
