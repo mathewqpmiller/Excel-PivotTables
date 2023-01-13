@@ -76,6 +76,28 @@ A deep dive into Excel Pivot Tables specializing on Data Analytics.
 
 ## Section 4
 
+* 1) Create a view to show IMDb Score by Title. What happens when you replace Title with Genre? How can you fix this issue? (hint: look at the summarization type...)
+
+* 2) Update your view to show Average IMDb Score by Genre (primary row labels) and Year (secondary row labels), for 2011-2014. Drag in a second instance of IMDb Score, change the summarization to Average, and show the values as a Rank (large to small) based on the year. Which year in the 4-year sample saw the highest-rated Biography films on average? The lowest?
+
+* 3) Add in a column for Gross Revenue, and show the values as the % Difference From the previous year. By what percentage did Action movie revenue grow in 2014?
+
+* 4) Create two new calculated fields named "Profit" (Gross Revenue - Budget), and "Profit Margin" (Profit / Gross Revenue). Update the view to show both new fields by Title. Which Title generated the strongest Profit Margin in the entire sample (across all years)?
+
+* 5) Create a new calculated field for "Cast + Director Likes" (Cast FB Likes + Director FB Likes), and update the view to show Cast + Director Likes by Genre. If you wanted to show this field as an average across titles, rather than a sum, how could you accomplish this? 
+
+|Show IMDb Scores as "Avgerage"|View Genre Average by Rank between 2011-2014|
+|:-:|:-:|
+|![Show IMDb Scores as "Avgerage"](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section3HomeworkPics/3.1HomeworkPics.png?h=350&w=630)|![View Genre Average by Rank between 2011-2014](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section3HomeworkPics/3.2HomeworkPics.png?h=350&w=630)|
+|Show % Difference from Previous Year|Create "Profit" and "Profit Margin" Calculated Field|
+|![Show % Difference from Previous Year](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section3HomeworkPics/3.3HomeworkPics.png?h=350&w=630)|![Create "Profit" and "Profit Margin" Calculated Field](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section3HomeworkPics/3.4HomeworkPics.png?h=350&w=630)|
+
+### Create calculated field for "Cast + Director Likes" for combined Cast and Director FB Likes. 
+
+<p align="center">
+    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section3HomeworkPics/3.5HomeworkPics.png?w=1260">
+</p>
+
 ## Section 5
 
 ## Section 6
