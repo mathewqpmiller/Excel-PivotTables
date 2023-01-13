@@ -20,6 +20,16 @@ A deep dive into Excel Pivot Tables specializing on Data Analytics
 
 ## Section 2: Formatting Excel Pivot Tables
 
+* 1) Show Budget and Gross Revenue by Title, and change the number format to currency, with a dollar sign and no decimal places. What was the budget for "A Passage to India"?
+
+* 2) Remove Budget and Title, and show Gross Revenue by Genre (rows) and Rating (columns). Update the PivotTable options to show "$0" instead of blank values
+
+* 3) Move Rating to the row labels (beneath Genre), change your table layout to Outline View, and Update your column headers from "Rating" to "Film Rating", and from "Sum of Gross Revenue" to "Gross Revenue" (hint: you may need a trailing space)
+
+* 4) Remove Film Rating from the view, so that you're just viewing Gross Revenue by Genre. Turn Grand Totals off, select the Gross Revenue values, format as currency (if they aren't already) and add a Color Scale from Green (high) to Red (low). Which Genre produced the most Gross Revenue?
+
+* 5) Add a second instance of Gross Revenue, and format the new column with Data Bars. Update the number format to make the text invisible, so that only the bars appear. Which Genre produced the second-highest Gross Revenue total in the sample?
+
 |A Passage To India GR|Replace Blank Values w/ $0|
 |:-:|:-:|
 |![A Passage To India GR](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section2HomeworkPics/2.1HomeworkPic.png?h=350&w=630)|![Replace Blank Values w/ $0](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section2HomeworkPics/2.2HomeworkPic.png?h=350&w=630)|
