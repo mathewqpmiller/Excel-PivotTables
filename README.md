@@ -88,14 +88,14 @@ A deep dive into Excel Pivot Tables specializing on Data Analytics.
 
 |Show IMDb Scores as "Avgerage"|View Genre Average by Rank between 2011-2014|
 |:-:|:-:|
-|![Show IMDb Scores as "Avgerage"](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section3HomeworkPics/3.1HomeworkPics.png?h=350&w=630)|![View Genre Average by Rank between 2011-2014](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section3HomeworkPics/3.2HomeworkPics.png?h=350&w=630)|
+|![Show IMDb Scores as "Avgerage"](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section4HomeworkPics/4.1HomeworkPics.png?h=350&w=630)|![View Genre Average by Rank between 2011-2014](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section4HomeworkPics/4.2HomeworkPics.png?h=350&w=630)|
 |Show % Difference from Previous Year|Create "Profit" and "Profit Margin" Calculated Field|
-|![Show % Difference from Previous Year](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section3HomeworkPics/3.3HomeworkPics.png?h=350&w=630)|![Create "Profit" and "Profit Margin" Calculated Field](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section3HomeworkPics/3.4HomeworkPics.png?h=350&w=630)|
+|![Show % Difference from Previous Year](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section4HomeworkPics/4.3HomeworkPics.png?h=350&w=630)|![Create "Profit" and "Profit Margin" Calculated Field](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section4HomeworkPics/4.4HomeworkPics.png?h=350&w=630)|
 
 ### Create calculated field for "Cast + Director Likes" for combined Cast and Director FB Likes. 
 
 <p align="center">
-    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section3HomeworkPics/3.5HomeworkPics.png?w=1260">
+    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section4HomeworkPics/4.5HomeworkPics.png?w=1260">
 </p>
 
 ## Section 5
