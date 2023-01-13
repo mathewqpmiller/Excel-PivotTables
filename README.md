@@ -62,13 +62,13 @@ A deep dive into Excel Pivot Tables specializing on Data Analytics.
 
 * 5) Add a wildcard to your label filter to only show titles that start with the letter "M" and also contain the letter "s", separated by any number of characters. Which titles are returned?
 
-|Budget by Title|Budget/GR by Country, Genre and Title|
+|Top Grossing Title from 2005-2008|Top Grossing Title ending in "2"|
 |:-:|:-:|
-|![Budget by Title](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section1HomeworkPics/TitleBudgetPivotTable.png?h=350&w=630)|![Budget/GR by Country, Genre and Title](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section1HomeworkPics/BudgetGROnCountryGenreTitle.png?h=350&w=630)|
-|Horror Films GR by Country|USA B&W Films GR by Genre and Rating|
-|![Horror Films GR by Country](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section1HomeworkPics/GROnCountryByGenre.png?h=350&w=630)|![USA B&W Films GR by Genre and Rating](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section1HomeworkPics/GROnGenreRatingByCountryB&W.png?h=350&w=630)|
+|![Top Grossing Title from 2005-2008](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section1HomeworkPics/TitleBudgetPivotTable.png?h=350&w=630)|![Top Grossing Title ending in "2"](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section1HomeworkPics/BudgetGROnCountryGenreTitle.png?h=350&w=630)|
+|Which Titles earned from 1-3mm|Which Titles start with the letter "M"|
+|![Which Titles earned from 1-3mm](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section1HomeworkPics/GROnCountryByGenre.png?h=350&w=630)|![Which Titles start with the letter "M"](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section1HomeworkPics/GROnGenreRatingByCountryB&W.png?h=350&w=630)|
 
-### Add a row and a column to the raw dataset
+### Titles that start with "M" and contain "s" 
 
 <p align="center">
     <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section1HomeworkPics/Section1.5HomeworkPic.png?w=1260">
