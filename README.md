@@ -74,7 +74,7 @@ A deep dive into Excel Pivot Tables specializing on Data Analytics.
     <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section3HomeworkPics/3.5HomeworkPics.png?w=1260">
 </p>
 
-## Section 4
+## Section 4: How to Enrich Data with Calculated Values and Fields
 
 * 1) Create a view to show IMDb Score by Title. What happens when you replace Title with Genre? How can you fix this issue? (hint: look at the summarization type...)
 
@@ -98,7 +98,7 @@ A deep dive into Excel Pivot Tables specializing on Data Analytics.
     <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section4HomeworkPics/4.5HomeworkPics.png?w=1260">
 </p>
 
-## Section 5
+## Section 5: Visualizing Data with Excel Pivot Charts
 
 * 1) Create a view to show # of Titles by Country, excluding the USA, for the entire sample. Name the PivotTable "Titles by Country", then use a PivotChart to visualize this view as a Clustered Column Chart.
 
@@ -114,20 +114,20 @@ A deep dive into Excel Pivot Tables specializing on Data Analytics.
 
 |"Titles by Country" Clustered Column Chart|Top 10 Countries by Number of Titles|
 |:-:|:-:|
-|!["Titles by Country" Clustered Column Chart](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section4HomeworkPics/4.1HomeworkPics.png?h=350&w=630)|![Top 10 Countries by Number of Titles](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section4HomeworkPics/4.2HomeworkPics.png?h=350&w=630)|
+|!["Titles by Country" Clustered Column Chart](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section5HomeworkPics/5.1HomeworkPic.png?h=350&w=630)|![Top 10 Countries by Number of Titles](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section5HomeworkPics/5.2HomeworkPic.png?h=350&w=630)|
 |Clustered Bar Chart Ascending by # of Titles|# of Titles and IMDb Score Combo Chart|
-|![Clustered Bar Chart Ascending by # of Titles](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section4HomeworkPics/4.3HomeworkPics.png?h=350&w=630)|![# of Titles and IMDb Score Combo Chart](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section4HomeworkPics/4.4HomeworkPics.png?h=350&w=630)|
+|![Clustered Bar Chart Ascending by # of Titles](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section5HomeworkPics/5.3HomeworkPic.png?h=350&w=630)|![# of Titles and IMDb Score Combo Chart](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section5HomeworkPics/5.4HomeworkPic.png?h=350&w=630)|
 
 ### Top 5 "Budget by Genre" Pie Chart. 
 
 <p align="center">
-    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section4HomeworkPics/4.5HomeworkPics.png?w=1260">
+    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section5HomeworkPics/5.5HomeworkPic.png?w=1260">
 </p>
 
-### Top 5 "Budget by Genre" Pie Chart. 
+### Enable Slicers multi-select and connect it to both Combo and Pie Charts. 
 
 <p align="center">
-    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section4HomeworkPics/4.5HomeworkPics.png?w=1260">
+    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section5HomeworkPics/5.6HomeworkPic.png?w=1260">
 </p>
 
 ## Section 6
