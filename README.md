@@ -1,10 +1,10 @@
 # Excel-PivotTables
 
-A deep dive into Excel Pivot Tables specializing on Data Analytics.
+A deep dive into Excel Pivot Tables, specializing on Data Analytics, using an IMDb dataset from a Udemy led course.
 
 ## Section 1: Excel Pivot Tables 101
 
-* 1) Set up a view to show Budget by Title (as rows), with filters for Country (set to Japan) and Language (set to English). How many Japanese movies in the database were produced in English?
+* 1) First show the Budget of each movie Title in rows with filters for Country and Language that are set to Japan and English respectively. Out of all of the movies produced in English, how many of the movies were Japanese movies? !
 
 * 2) Clear the Language filter, set the Country filter to Denmark, and pull in Gross Revenue as a second metric. How much gross revenue did "The Celebration" generate?
 
@@ -130,4 +130,4 @@ A deep dive into Excel Pivot Tables specializing on Data Analytics.
     <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section5HomeworkPics/5.6HomeworkPic.png?w=1260">
 </p>
 
-## Section 6
+## Section 6: Case Studies
