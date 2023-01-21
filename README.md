@@ -133,5 +133,5 @@ A deep dive into Excel Pivot Tables, specializing on Data Analytics, using an IM
 ## Section 6: Case Studies
 
 <p align="left">
-    <img width="150" alt="level1" src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/VoterDemographics.jpg?raw=true">
+    <img width="150" alt="level1" src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/VoterDemographics.jpg?raw=true">[Analysis of Voter Demographics](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/READMEVoterDemographics.md)
 </p>
