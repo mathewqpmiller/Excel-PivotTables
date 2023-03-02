@@ -139,5 +139,5 @@ A deep dive into Excel Pivot Tables, specializing on Data Analytics, using an IM
 --
 
 <p align="left">
-    <img width="150" alt="level1" src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SharkAttackRecords/SharkAttackRecords.jpg?raw=true"><a href="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/READMESalaryData.md">Analyzing San Francisco Salary Data<a>
+    <img width="150" alt="level1" src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SharkAttackRecords/SharkAttackRecords.jpg?raw=true"><a href="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/READMESharkAttackRecords.md">Exploring Shark Attack Records<a>
 </p>

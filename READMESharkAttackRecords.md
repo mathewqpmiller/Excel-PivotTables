@@ -1,7 +1,7 @@
 # Exploring Shark Attack Records
 
 <p align="center">
-    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SharkAttackRecords/SharkAttackRecords.jpg?w=700">
+    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SharkAttackRecords/SharkAttackRecords.jpg?w=360">
 </p>
 
 Using the PivotTable created in the Shark Attack case study, complete the following:

@@ -1,7 +1,7 @@
 # Analyzing Wine Tasting Scores
 
 <p align="center">
-    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/WineTastingScores/WineTastingScores.jpg?w=700">
+    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/WineTastingScores/WineTastingScores.jpg?w=360">
 </p>
 
 Using the PivotTable created in the Wine Tasting case study, complete the following:
