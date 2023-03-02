@@ -1,3 +1,4 @@
+# Analyzing San Francisco Salary Data
 
 <p align="center">
     <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SalaryData/SalaryData.jpg?w=1260">

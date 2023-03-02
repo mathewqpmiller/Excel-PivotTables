@@ -1,3 +1,4 @@
+# Analyzing US Voter Demographics
 
 <p align="center">
     <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/VoterDemographics/VoterDemographics.jpg?w=1260">
