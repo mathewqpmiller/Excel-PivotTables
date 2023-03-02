@@ -118,16 +118,10 @@ A deep dive into Excel Pivot Tables, specializing on Data Analytics, using an IM
 |Clustered Bar Chart Ascending by # of Titles|# of Titles and IMDb Score Combo Chart|
 |![Clustered Bar Chart Ascending by # of Titles](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section5HomeworkPics/5.3HomeworkPic.png?h=350&w=630)|![# of Titles and IMDb Score Combo Chart](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section5HomeworkPics/5.4HomeworkPic.png?h=350&w=630)|
 
-### Top 5 "Budget by Genre" Pie Chart. 
+### Top 5 "Budget by Genre" Pie Chart. Enable slicers multi-select and connect it to both combo and pie charts. 
 
 <p align="center">
     <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section5HomeworkPics/5.5HomeworkPic.png?w=1260">
-</p>
-
-### Enable Slicers multi-select and connect it to both Combo and Pie Charts. 
-
-<p align="center">
-    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section5HomeworkPics/5.6HomeworkPic.png?w=1260">
 </p>
 
 ## Section 6: Case Studies
