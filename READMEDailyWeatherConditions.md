@@ -1,6 +1,7 @@
+# Tracking Daily Weather Conditions
 
 <p align="center">
-    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section5HomeworkPics/5.6HomeworkPic.png?w=1260">
+    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/DailyWeatherConditions/DailyWeatherConditions.jpg?w=700">
 </p>
 
 Using the PivotTable created in the Daily Weather Conditions case study, answer the following:

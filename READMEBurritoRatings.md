@@ -1,6 +1,7 @@
+# Exploring San Diego Burrito Ratings
 
 <p align="center">
-    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/Section5HomeworkPics/5.6HomeworkPic.png?w=1260">
+    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/BurritoRatings/BurritoRatings.jpg?w=700">
 </p>
 
 Create a NEW PivotTable from the San Diego Burrito Ratings data, and answer the following:

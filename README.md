@@ -141,3 +141,45 @@ A deep dive into Excel Pivot Tables, specializing on Data Analytics, using an IM
 <p align="left">
     <img width="150" alt="level1" src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SharkAttackRecords/SharkAttackRecords.jpg?raw=true"><a href="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/READMESharkAttackRecords.md">Exploring Shark Attack Records<a>
 </p>
+
+--
+
+<p align="left">
+    <img width="150" alt="level1" src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/StockMarketData/StockMarketData.jpg?raw=true"><a href="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/READMEStockMarketData.md">Analyzing Stock Market Data<a>
+</p>
+
+--
+
+<p align="left">
+    <img width="150" alt="level1" src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/MajorLeagueBaseballTeams/MajorLeagueBaseballTeams.jpg?raw=true"><a href="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/READMEMajorLeagueBaseballTeams.md">Analyzing Major League Baseball Teams<a>
+</p>
+
+--
+
+<p align="left">
+    <img width="150" alt="level1" src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/BurritoRatings/BurritoRatings.jpg?raw=true"><a href="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/READMEBurritoRatings.md">Exploring San Diego Burrito Ratings<a>
+</p>
+
+--
+
+<p align="left">
+    <img width="150" alt="level1" src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/DailyWeatherConditions/DailyWeatherConditions.jpg?raw=true"><a href="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/READMEDailyWeatherConditions.md">Tracking Daily Weather Conditions<a>
+</p>
+
+--
+
+<p align="left">
+    <img width="150" alt="level1" src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SpartanRaceFacebookPosts/SpartanRaceFacebookPosts.jpg?raw=true"><a href="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/READMESpartanRaceFacebookPosts.md">Analyzing Spartan Race Facebook Posts<a>
+</p>
+
+--
+
+<p align="left">
+    <img width="150" alt="level1" src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/AppleAppStoreData/AppleAppStoreData.jpg?raw=true"><a href="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/READMEAppleAppStoreData.md">Analyzing Apple App Store Data<a>
+</p>
+
+--
+
+<p align="left">
+    <img width="150" alt="level1" src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/WineTastingScores/WineTastingScores.jpg?raw=true"><a href="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/READMEAppleAppStoreData.md">Analyzing Wine Tasting Scores<a>
+</p>
