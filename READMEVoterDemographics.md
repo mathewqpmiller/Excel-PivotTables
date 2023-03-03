@@ -1,7 +1,7 @@
 # Analyzing US Voter Demographics
 
 <p align="center">
-    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/VoterDemographics/VoterDemographics.jpg?w=360">
+    <img src="https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/VoterDemographics/VoterDemographics.jpg?w=150">
 </p>
 
 Using the PivotTable created in the U.S. Voters case study, complete the following:
