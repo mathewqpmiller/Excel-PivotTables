@@ -6,7 +6,7 @@
 
 Utilizing the data set "Analyzing San Francisco Salary Data" from the case studies file, I answered these four questions.
 1) Who were the top five earners in 2011 in the category of Base Pay?
-a. John J Loftus - $274,127
+    *a. John J Loftus - $274,127
 b. Naomi M Kelly - $270,642
 c. Barbara A Garcia - $270,591
 d. George  Gascon - $252,221
