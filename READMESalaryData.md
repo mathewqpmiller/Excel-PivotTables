@@ -14,7 +14,7 @@ Who were the top five earners in 2011 in the category of Base Pay?
 * e. Kenneth A Lombardi - $239,247
 
 Create a calculated field named "% Other Pay", which is comprised of "Other Pay/Total Pay", and show which job titles made only "Other Pay" in 2012.
-Job Titles	                                    Sum of Other Pay	Sum of Total Pay	Sum of % Other Pay
+|Job Titles|Sum of Other Pay|Sum of Total Pay|Sum of % Other Pay|
 * a. Warehouse Worker	                        $3,370	            $3,370	            100.0%
 * b. Representative, Human Rights Commission	$88	                $88	                100.0%
 * c. Principal Real Property Officer	        $2,193	            $2,193	            100.0%
