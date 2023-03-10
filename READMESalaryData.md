@@ -30,21 +30,18 @@ Create a calculated field named "% Other Pay", which is comprised of "Other Pay/
 
 4) In 2012 and 2013, how many employees held some sort of "Curator" position? Of those employees, who earned the top average base pay?
 Clear all filters and pull in Job Category and Job Title as row labels (Titles sorted alphabetically), then group any titles including the word "Curator" into a new category called "Curator". How many employees held some sort of Curator position in either 2012 or 2013? Among those, who earned the highest average base pay?
-|Job Group|Employee Name|Sum of Base Pay|
+|Job Group: Curator|Employee Name|Sum of Base Pay|
 |:-:|:-:|:-:|
-| Curator |:-:|:-:|
-|:-:|Dennis G Sharp|$81,066|
-|:-:|Sonya Knudsen|$75,891|
-|:-:|Allison Cummings|$75,790|
-|:-:|Ramekon O'Arwisters|$74,076|
-|:-:|Robert D Harris|$72,816|
-|:-:|Dennis Sharp|$72,363|
-|:-:|Ann H.A. Carroll|$62,901|
-h. Aimee Le Duc	        $54,150
-i. Allison Harding	    $25,247
+|Curator 3|Dennis G Sharp|$81,066|
+|Curator 4|Sonya Knudsen|$75,891|
+|Curator 3|Allison Cummings|$75,790|
+|Curator 3|Ramekon O'Arwisters|$74,076|
+|Curator 3|Robert D Harris|$72,816|
+|Curator 3|Dennis Sharp|$72,363|
+|Curator 1|Ann H.A. Carroll|$62,901|
+|Curator 1|Aimee Le Duc|$54,150|
+|Curator 1|Allison Harding|$25,247|
 
 |Top Five "Base Pay" Earners in 2011|Job Titles Earning Only "Other Pay" in 2012|Employee Who Earned > 50% "Other Pay" in 2012|Top "Curator" Earner in 2012-13|
 |:-:|:-:|:-:|:-:|
-|![Top Five "Base Pay" Earners in 2011](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SalaryData/Homework1.png?h=350&w=630)|![Job Titles Earning Only "Other Pay" in 2012](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SalaryData/Homework2.png?h=350&w=630)|
-|Employee Who Earned > 50% "Other Pay" in 2012|Top "Curator" Earner in 2012-13|
-|![Employee Who Earned > 50% "Other Pay" in 2012](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SalaryData/Homework3.png?h=350&w=630)|![Top "Curator" Earner in 2012-13](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SalaryData/Homework4.png?h=350&w=630)|
+|![Top Five "Base Pay" Earners in 2011](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SalaryData/Homework1.png?h=350&w=630)|![Job Titles Earning Only "Other Pay" in 2012](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SalaryData/Homework2.png?h=350&w=630)|![Employee Who Earned > 50% "Other Pay" in 2012](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SalaryData/Homework3.png?h=350&w=630)|![Top "Curator" Earner in 2012-13](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SalaryData/Homework4.png?h=350&w=630)|
