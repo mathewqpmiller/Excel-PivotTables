@@ -25,11 +25,10 @@ Create a calculated field named "% Other Pay", which is comprised of "Other Pay/
 | Assistant Recreation Director | $2,173 | $2,173 | 100.0% |
 | Auto Svc Wrk Asst Sprv | $3,773 | $3,773 | 100.0% |
 
-
-3) In 2012, out of the employees who made $100k or more, which employee earned more than 50% of their pay from "Other Pay"?
+In 2012, out of the employees who made $100k or more, which employee earned more than 50% of their pay from "Other Pay"?
 * a. Anna L Cuthbertson - $116,478 - 51%
 
-4) In 2012 and 2013, how many employees held some sort of "Curator" position? Of those employees, who earned the top average base pay?
+In 2012 and 2013, how many employees held some sort of "Curator" position? Of those employees, who earned the top average base pay?
 Clear all filters and pull in Job Category and Job Title as row labels (Titles sorted alphabetically), then group any titles including the word "Curator" into a new category called "Curator". How many employees held some sort of Curator position in either 2012 or 2013? Among those, who earned the highest average base pay?
 |Job Group: Curator|Employee Name|Sum of Base Pay|
 |:-----------------|:------------:|--------------:|
