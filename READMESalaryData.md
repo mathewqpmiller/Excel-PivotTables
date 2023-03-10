@@ -41,7 +41,7 @@ Clear all filters and pull in Job Category and Job Title as row labels (Titles s
 |Curator 1|Ann H.A. Carroll|$62,901|
 |Curator 1|Aimee Le Duc|$54,150|
 |Curator 1|Allison Harding|$25,247|
-
+### San Francisco Salary Data Answers (screenshots)
 |Top Five "Base Pay" Earners|Only "Other Pay" Earners|> 50% "Other Pay" Earners|Top "Curator" Earners|
 |:-:|:-:|:-:|:-:|
 |![Top Five "Base Pay" Earners in 2011](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SalaryData/Homework1.png?h=350&w=630)|![Job Titles Earning Only "Other Pay" in 2012](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SalaryData/Homework2.png?h=350&w=630)|![Employee Who Earned > 50% "Other Pay" in 2012](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SalaryData/Homework3.png?h=350&w=630)|![Top "Curator" Earner in 2012-13](https://github.com/mathewqpmiller/Excel-PivotTables/blob/main/Images/CaseStudies/SalaryData/Homework4.png?h=350&w=630)|
