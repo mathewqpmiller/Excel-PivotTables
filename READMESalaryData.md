@@ -30,7 +30,7 @@ In 2012, out of the employees who made $100k or more, which employee earned more
 ### Who Were the Top "Curator" Earners in 2012-13
 In 2012 and 2013, how many employees held some sort of "Curator" position? Of those employees, who earned the top average base pay?
 Clear all filters and pull in Job Category and Job Title as row labels (Titles sorted alphabetically), then group any titles including the word "Curator" into a new category called "Curator". How many employees held some sort of Curator position in either 2012 or 2013? Among those, who earned the highest average base pay?
-|Job Group: Curator|Employee Name|Sum of Base Pay|Top "Curator" Earners|
+|Job Group: Curator|Employee Name|Sum of Base Pay|
 |:-----------------|:------------:|--------------:|
 |Curator 3|Dennis G Sharp|$81,066|
 |Curator 4|Sonya Knudsen|$75,891|
